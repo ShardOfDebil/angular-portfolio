@@ -1,0 +1,18 @@
+<mat-toolbar-row class="header">
+  <mat-icon svgIcon="wheelchair"></mat-icon>
+  <span>RASSLABUXA</span>
+    <div class="header__tabs">
+      <ng-container *ngFor="let page of pagesArr">
+      <button
+        mat-button
+        class="header__tabs__tab"
+        (click)="navigateTo(page.route)"
+      >{{page.name}}</button>
+      </ng-container>
+    </div>
+</mat-toolbar-row>
+<ng-container *ngIf="preloader">
+  <mat-progress-bar mode="indeterminate"></mat-progress-bar>
+</ng-container>
+<!--<img src="assets/gif/shadow-fiend_1.gif">-->
+

@@ -1,0 +1,30 @@
+:host {
+
+}
+
+.header {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  height: 70px;
+  background: #200C36;
+  color: #ffffff;
+  font-family: "Roboto","Helvetica","Arial",sans-serif;
+  font-weight: 450;
+
+  &:first-child {
+    padding-left: 24px;
+  }
+
+  &__tabs {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 16px 16px 16px 16px;
+
+    &__tab {
+      margin-right: 16px;
+      font-size: 1rem;
+    }
+  }
+}
