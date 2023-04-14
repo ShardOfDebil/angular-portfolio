@@ -1,2 +1,2 @@
 # project-polar-angular
-My test per project for educational purposes
+My test pet project for educational purposes
