@@ -5,6 +5,7 @@ import {MatIconModule} from '@angular/material/icon';
 import {MatToolbarModule} from '@angular/material/toolbar';
 import {IconsModule} from '../../core/icons/icons.module';
 import {HeaderNavbarModule} from '../../shared/components/header-navbar/header-navbar.module';
+import {FoundersPageModule} from '../founders-page/founders-page.module';
 import {RoadMapPageModule} from '../road-map-page/road-map-page.module';
 import {MainPageComponent} from './main-page.component';
 
@@ -15,12 +16,13 @@ import {MainPageComponent} from './main-page.component';
   ],
   imports: [
     CommonModule,
+    HeaderNavbarModule,
+    RoadMapPageModule,
+    FoundersPageModule,
     MatToolbarModule,
     MatButtonModule,
     MatIconModule,
     IconsModule,
-    HeaderNavbarModule,
-    RoadMapPageModule
   ],
   exports: [
 

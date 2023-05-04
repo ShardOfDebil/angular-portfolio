@@ -1,6 +1,7 @@
 import {NgModule} from '@angular/core';
 import {RouterModule, Routes} from '@angular/router';
 import {AuthorizationPageComponent} from '../views/authorization-page/authorization-page.component';
+import {FoundersPageComponent} from '../views/founders-page/founders-page.component';
 import {MainPageComponent} from '../views/main-page/main-page.component';
 import {RoadMapPageComponent} from '../views/road-map-page/road-map-page.component';
 import {AppComponent} from './app.component';
@@ -13,6 +14,10 @@ const appRoute: Routes = [
   {
     path: 'roadmap',
     component: RoadMapPageComponent
+  },
+  {
+    path: 'founders',
+    component: FoundersPageComponent
   },
   {
     path: 'authorization',
