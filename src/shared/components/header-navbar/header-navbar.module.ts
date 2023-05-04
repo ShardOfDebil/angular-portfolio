@@ -5,10 +5,11 @@ import {MatToolbarModule} from "@angular/material/toolbar";
 import {MatIconModule} from "@angular/material/icon";
 import {MatButtonModule} from "@angular/material/button";
 import {MatProgressBarModule} from "@angular/material/progress-bar";
+import { LogoNamespaceComponent } from './logo-namespace/logo-namespace.component';
 
 
 @NgModule({
-  declarations: [HeaderNavbarComponent],
+  declarations: [HeaderNavbarComponent, LogoNamespaceComponent],
   exports: [
     HeaderNavbarComponent
   ],

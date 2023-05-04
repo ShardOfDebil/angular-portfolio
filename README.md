@@ -1,11 +1,11 @@
-# ЦВЕТОВАЯ ПАЛИТРА ПРОЕКТА ЕПТА
+# COLOR PALETTE
 https://coolors.co/100c3a-180c38-200c36-240c35-280c34-2c0c33-3f2246-503657-604866-6e5974
 
-# РЕПОЗИТОРИЙ ПРОЕКТА ЕПТА
+# REPO
 
-https://github.com/ShardOfDebil/based-rep
+https://github.com/ShardOfDebil/project-polar-angular.git
 
-# МАКЕТ ПРОЕКТА ЕПТА
+# FIGMA
 
 https://www.figma.com/file/94UF6xnp2ndqwDcVyskNnF/Untitled?node-id=6%3A77
 
@@ -13,7 +13,7 @@ https://www.figma.com/file/94UF6xnp2ndqwDcVyskNnF/Untitled?node-id=6%3A77
 
 https://material.angular.io/components/categories
 
-# ЗАДАЧКИ ТУТ
+# TASKS
 
 https://based-project.atlassian.net/jira/your-work
 

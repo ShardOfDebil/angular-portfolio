@@ -1,7 +1,7 @@
 export enum ROUTE_PATH {
   EMPTY = '',
-  BASED_PAGE = 'base',
-  TALANT_PAGE = 'talant',
+  ROADMAP_PAGE = 'roadmap',
+  FOUNDERS_PAGE = 'founders',
   GRAPHICS_PAGE = 'graphics',
   AUTHORIZATION_PAGE = 'authorization'
 }

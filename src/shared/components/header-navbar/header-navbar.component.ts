@@ -18,19 +18,19 @@ export class HeaderNavbarComponent implements OnInit {
 
   public pagesArr: IPages[] = [
     {
-      name: 'Главная',
+      name: 'ABOUT',
       route: ROUTE_PATH.EMPTY,
     },
     {
-      name: 'База',
-      route: ROUTE_PATH.BASED_PAGE,
+      name: 'ROAD MAP',
+      route: ROUTE_PATH.ROADMAP_PAGE,
     },
     {
-      name: 'Талант',
-      route: ROUTE_PATH.TALANT_PAGE,
+      name: 'FOUNDERS',
+      route: ROUTE_PATH.FOUNDERS_PAGE,
     },
     {
-      name: 'Графики',
+      name: 'PRE ORDER',
       route: ROUTE_PATH.GRAPHICS_PAGE,
     }
   ];
