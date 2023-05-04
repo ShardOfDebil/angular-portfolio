@@ -1,5 +1,19 @@
 # COLOR PALETTE
-https://coolors.co/100c3a-180c38-200c36-240c35-280c34-2c0c33-3f2246-503657-604866-6e5974
+
+Dark and Earthy Tones:
+ * Olive green: #556B2F
+ * Charcoal gray: #333333
+ * Dark brown: #654321
+________________
+Accent Colors:
+* Deep red: #A30000
+* Steel blue: #4682B4
+* Orange: #FFA500
+_________________
+Neutral Colors:
+ * Off-white: #F5F5F5 
+ * Light gray: #CCCCCC 
+ * Black: #000000
 
 # REPO
 

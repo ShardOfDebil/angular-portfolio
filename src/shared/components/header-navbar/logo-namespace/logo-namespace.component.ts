@@ -7,9 +7,9 @@ import {Component, OnInit} from '@angular/core';
 })
 export class LogoNamespaceComponent implements OnInit {
 
-  public letter: string = 'A';
+  public btb: string = 'BTB';
 
-  public word: string = 'urora';
+  public word: string = '';
 
   public wordStyles: {} = {};
 

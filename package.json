@@ -25,6 +25,7 @@
     "tslib": "^2.3.0",
     "tslint": "^6.1.3",
     "tslint-angular": "^3.0.3",
+    "typeface-audiowide": "^1.1.13",
     "zone.js": "~0.11.4"
   },
   "devDependencies": {
