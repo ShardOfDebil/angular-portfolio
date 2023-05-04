@@ -5,7 +5,7 @@ import {MatIconModule} from '@angular/material/icon';
 import {MatToolbarModule} from '@angular/material/toolbar';
 import {IconsModule} from '../../core/icons/icons.module';
 import {HeaderNavbarModule} from '../../shared/components/header-navbar/header-navbar.module';
-import {BasedPageModule} from '../based-page/based-page.module';
+import {RoadMapPageModule} from '../road-map-page/road-map-page.module';
 import {MainPageComponent} from './main-page.component';
 
 
@@ -20,7 +20,7 @@ import {MainPageComponent} from './main-page.component';
     MatIconModule,
     IconsModule,
     HeaderNavbarModule,
-    BasedPageModule
+    RoadMapPageModule
   ],
   exports: [
 

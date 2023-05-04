@@ -1,10 +1,10 @@
 import { CommonModule } from '@angular/common';
 import { NgModule } from '@angular/core';
+import {MatButtonModule} from '@angular/material/button';
+import {MatIconModule} from '@angular/material/icon';
+import {MatProgressBarModule} from '@angular/material/progress-bar';
+import {MatToolbarModule} from '@angular/material/toolbar';
 import {HeaderNavbarComponent} from './header-navbar.component';
-import {MatToolbarModule} from "@angular/material/toolbar";
-import {MatIconModule} from "@angular/material/icon";
-import {MatButtonModule} from "@angular/material/button";
-import {MatProgressBarModule} from "@angular/material/progress-bar";
 import { LogoNamespaceComponent } from './logo-namespace/logo-namespace.component';
 
 
